@@ -1,0 +1,12 @@
+Import this file in your program to test if your encrypt and decrypt functions are working correctly.
+
+Make sure that the file your functions are defined in a file called 'caesar_cipher_template.py', otherwise the tests will not work. Also, make sure that both files are in the same folder.
+
+After the 2 function definitions type:
+
+import caesar_cipher_reference
+
+When you will run the file in the Shell it will generate 30 random test cases for each function.
+
+Note, that even if your function passes all of them, it is not guaranteed to be implemented correctly as the tests are randomized, but it should provide some confidence.
+

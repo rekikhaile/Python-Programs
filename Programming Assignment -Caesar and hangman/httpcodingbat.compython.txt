@@ -1,0 +1,3 @@
+http://codingbat.com/python
+http://www.hangman.no/
+http://math.ucsd.edu/~crypto/cgi-bin/MontyKnows/monty1?1

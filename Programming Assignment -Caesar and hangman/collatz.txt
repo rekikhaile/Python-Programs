@@ -1,0 +1,6 @@
+Test file for the Collatz conjencture assignment, when you have both functions implemented, type:
+
+import collatz_conjencture_reference
+
+You should have both of your files in 1 folder, and file with your functions should be called collatz_conjencture_template.py with function names left unchanged.
+
